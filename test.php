@@ -16,7 +16,7 @@ function test_sql_php() {
     }
 
     // Abra o arquivo SQL
-    $sql_file = "131_receita.sql"; // Substitua pelo nome do seu arquivo SQL
+    $sql_file = "aqui_vai_o_arquivo_sql.sql"; // Substitua pelo nome do seu arquivo SQL
     $fp = fopen($sql_file, "r");
 
     // Inicialize com sucesso
