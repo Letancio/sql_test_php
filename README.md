@@ -2,7 +2,7 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20FINISH&color=GREEN&style=for-the-badge"/>
 </p>
 
-# sql_test_php
+#  🧑🏾‍💻 sql_test_php
 Algorithm that aims to test a .sql file and report its integrity
 
 🤖 Requirements to work:
